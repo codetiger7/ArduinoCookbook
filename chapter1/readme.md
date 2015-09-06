@@ -1,9 +1,7 @@
 
 ## [1.6 Using Arduino](https://123d.circuits.io/circuits/996751-1-6-using-arduino/embed#breadboard)
 
-<a href="https://123d.circuits.io/circuits/996751-1-6-using-arduino/embed#breadboard" target="_blank">
-## 1.6 Using Arduino
-</a>
+<a href="https://123d.circuits.io/circuits/996751-1-6-using-arduino/embed#breadboard" target="_blank">## 1.6 Using Arduino</a>
 
 
 
