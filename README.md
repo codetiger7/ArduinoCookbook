@@ -1,7 +1,9 @@
 # ArduinoCookbook
 Arduino Cookbook Recipies
 
-![Arduino Cookbook](lrg.jpg =100x20)
+![Arduino Cookbook](lrg.jpg)
+
+<img src="lrg.jpg" alt="Drawing" style="width: 200px;"/>
 
 ## [1. Getting Started](chapter1/readme.md)
 
