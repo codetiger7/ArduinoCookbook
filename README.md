@@ -1,7 +1,7 @@
 # ArduinoCookbook
 Arduino Cookbook Recipies
 
-![Arduino Cookbook]!(Irg.jpg)
+![Arduino Cookbook](Irg.jpg)
 
 ## [1. Getting Started](chapter1/readme.md)
 
